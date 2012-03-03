@@ -3,7 +3,7 @@
 
 <head profile="http://gmpg.org/xfn/11">
  <meta http-equiv="Content-type" content="text/html;charset=UTF-8" /> 
-<title>Imago - capas dos jornais</title>
+<title>capas dos jornais</title>
 
 </head>
 
